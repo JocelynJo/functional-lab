@@ -1,0 +1,20 @@
+{
+  "name": "00-apply-discount",
+  "version": "1.0.0",
+  "description": "ejercicio funciones puras 1",
+  "main": "applyDiscount.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "funciones_puras"
+  ],
+  "author": "Jo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}

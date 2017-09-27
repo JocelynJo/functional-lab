@@ -1,0 +1,19 @@
+{
+  "name": "01-stage",
+  "version": "1.0.0",
+  "description": "Primeros ejercicios de programacion funcional",
+  "main": "lowercaser.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "functional",
+    "funcional",
+    "programing"
+  ],
+  "author": "Jocelyn Pena",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
