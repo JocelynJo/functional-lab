@@ -1,0 +1,20 @@
+{
+  "name": "01-serialize-user",
+  "version": "1.0.0",
+  "description": "Refactoriza la función serializeUser() para convertirla en una función pura y evitar que modifique el objeto que recibe como argumento.",
+  "main": "01-serialize-user.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "funcion_pura"
+  ],
+  "author": "Jo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
