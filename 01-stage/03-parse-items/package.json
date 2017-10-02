@@ -1,0 +1,17 @@
+{
+  "name": "03-parse-items",
+  "version": "1.0.0",
+  "description": "Refactoriza le siguiente función para que devuelva un nuevo arreglo en vez de modificar el arreglo que recibe como argumento.",
+  "main": "parseItems.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
